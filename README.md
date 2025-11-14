@@ -5,6 +5,10 @@
 [gopass](https://www.gopass.pw/) is a neat open source tool for password management.
 It handles (GPG) encryption and stores data in a git repo.
 
+## Creating a store
+
+Want a new gopass store like this one? Follow the [instructions in the wiki](https://github.com/voxpupuli/gopass-template/wiki)
+
 ## Installation
 
 The upstream docs cover the actual gopass installation: https://github.com/gopasspw/gopass/blob/master/docs/setup.md
